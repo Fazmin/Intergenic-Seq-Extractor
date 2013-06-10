@@ -1,0 +1,3 @@
+Extract-intergenic-sequences 1.0
+
+Extract intergenic sequences from any genbank file. To make things easy I have created a webfront end so just entering a Genbanck accession No. you can output the intergenic sequences. 

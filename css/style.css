@@ -1,0 +1,63 @@
+body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.mainhold {
+    position: absolute;
+    top: 280px;
+    right: 50%;
+    margin-right: -247px;
+}
+
+.headone {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 30px;
+    font-weight: 400;
+    word-spacing: 1px;
+}
+
+.input {
+    height: 35px !important;
+    width: 270px;
+}
+
+.headbig {
+    font-size: 70px;
+    color: #369;
+    word-spacing: .4px;
+    line-height: 130px;
+    text-transform: uppercase;
+}
+
+.headbigA {
+    font-size: 100px;
+    line-height: 60px;
+    color: #DBDBDB;
+}
+
+.donet {
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 400;
+    color: #369;
+}
+
+#downloadicon {
+    width: 350px;
+}
+
+#seq {
+    position: fixed;
+    height: 100%;
+    margin: 0;
+    right: 0;
+    width: 0;
+    bottom: 0;
+    background-color: #EBEBEB;
+}
+
+#tool {
+    width: 100%;
+}
